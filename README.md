@@ -1,5 +1,4 @@
 # SortingQuizo
 
-![banner](https://user-images.githubusercontent.com/76642252/122047313-9ed34d00-cdfd-11eb-82bf-cd592f6b3b3b.png)
-
+![banner](https://user-images.githubusercontent.com/76642252/122047572-ee197d80-cdfd-11eb-9508-2ec099ab8a87.png)
 
